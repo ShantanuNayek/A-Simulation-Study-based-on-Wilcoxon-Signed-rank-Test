@@ -1,0 +1,10 @@
+Team Members :
+
+Project : A simulation study based on Wilcoxon Signed rank test.
+Supervisor : Prof. Isha Dewan
+
+Members:
+
+1) Abhirup Sengupta ( MD2201)
+2)Subhasis Sur (MD2223)
+3)Shantanu Nayek(MD2218)
